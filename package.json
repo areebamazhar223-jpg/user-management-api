@@ -1,0 +1,25 @@
+
+{
+  "name": "user-management-api",
+  "version": "1.0.0",
+  "description": "RESTful User Management API built with Node.js and Express.js featuring CRUD operations, middleware, request validation, and temporary in-memory storage.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "user-management",
+    "crud",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
